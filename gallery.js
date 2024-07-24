@@ -89,7 +89,7 @@
                 `;
 
                 const video = document.createElement('video');
-                video.src = 'file:///C:/Users/bhans/Downloads/animation.webm';
+                video.src = 'animation.webm';
                 video.autoplay = true;
                 video.loop = false;
 
