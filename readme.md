@@ -24,17 +24,17 @@ This project creates an interactive image gallery where each image can be clicke
 
 
 
-Customizing the Image and Link Arrays
+### Customizing the Image and Link Arrays
 The script uses two arrays:
 
-array1: Contains the links to redirect to when an image is clicked.
-array2: Contains the URLs of images to display.
+1. array1: Contains the links to redirect to when an image is clicked.
+2. array2: Contains the URLs of images to display.
 
 Just edit the arrays to customise the gallery.
 
 
 
-License
+### License
 This project is open-source and available under the MIT License.
 
 
