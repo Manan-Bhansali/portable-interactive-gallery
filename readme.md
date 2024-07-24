@@ -1,6 +1,6 @@
 # Image Gallery with Click Animation
 
-This project creates an interactive image gallery where each image can be clicked to trigger an animation. After the animation, the user is redirected to a corresponding link. The gallery loads images dynamically as the user scrolls down the page.
+This project creates an interactive image gallery where each image can be clicked to trigger an animation of a hand moving and clicking. After the animation, the user is redirected to a corresponding link. The gallery loads images dynamically as the user scrolls down the page.
 
 ## Features
 - A scrollable product gallery look.
